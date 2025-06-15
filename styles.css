@@ -1,0 +1,18 @@
+.recipe-box{
+    background-color: beige;
+    padding: 3px;
+}
+
+.r1,.r2,.r3{
+    background-color: aliceblue;
+    padding: 3px;
+    margin: 3px auto;
+}
+
+li{
+    padding: 3px;
+}
+
+body{
+    background-color: lightgrey;
+}
